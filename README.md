@@ -7,5 +7,9 @@ readme/senai
 </BODY>
 </HTML>
 
+<<<<<<< HEAD
 
 lembrei do meu comando:git commit
+=======
+lembrei do comando status
+>>>>>>> tarefa/minha-primeira-branch
