@@ -6,3 +6,6 @@ readme/senai
    <H1> TÍTULO1 </H1>
 </BODY>
 </HTML>
+
+
+lembrei do meu comando:git commit
