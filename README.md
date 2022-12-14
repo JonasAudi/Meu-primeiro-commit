@@ -7,9 +7,11 @@ readme/senai
 </BODY>
 </HTML>
 
-<<<<<<< HEAD
+< HEAD
 
 lembrei do meu comando:git commit
 =======
 lembrei do comando status
->>>>>>> tarefa/minha-primeira-branch
+> tarefa/minha-primeira-branch
+resolvido o confito 
+
